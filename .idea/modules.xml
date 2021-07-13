@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../HHLTGCSplit/.idea/HHLTGC_SplitFile.iml" filepath="$PROJECT_DIR$/../HHLTGCSplit/.idea/HHLTGC_SplitFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LTGC_Split_sub-comp.iml" filepath="$PROJECT_DIR$/.idea/LTGC_Split_sub-comp.iml" />
     </modules>
   </component>
